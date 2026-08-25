@@ -2,128 +2,277 @@
 
 # 👋 Hi, I'm Isabel Vides
 
-Aspiring **QA Automation Engineer** passionate about building reliable, scalable, and maintainable test automation solutions. My interests include **API testing, web automation, backend testing, data validation, and software quality assurance**.
+### QA Automation Engineer
 
-[**Live Demo**](https://astro-starter-portfolio.vercel.app) · [Report an issue](https://github.com/BracoZS/astro-starter-portfolio/issues)
+I build reliable and maintainable test automation solutions focused on **Web UI, REST APIs, databases, and end-to-end testing**.
+
+**Python · Selenium · Pytest · API Testing · MySQL · Git/GitHub**
+
+[Portfolio](https://astro-starter-portfolio.vercel.app) · [GitHub](https://github.com/Marisa-GIT) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="./public/og-image.png" alt="Portfolio Starter preview" width="100%" style="max-width: 720px; border-radius: 8px;" />
-</div>
+## 👩‍💻 About Me
 
-<br />
+I am a **Software Analysis and Development Technologist** and **QA Automation Engineer** focused on software quality and test automation.
 
-## Features
+My experience combines functional testing with hands-on automation projects involving:
 
-- **Astro 7** — static output, zero client-side JavaScript by default
-- **Tailwind CSS v4** — CSS-first config, no `tailwind.config.js` needed
-- **Content Collections** with a typed Zod schema — add a project by dropping a Markdown file in `src/content/work/`
-- **Light & dark mode** — class-based, no flash of unstyled theme on load
-- **Astro Fonts API** — self-hosted Google Fonts, zero layout shift, no third-party requests
-- **View Transitions** — smooth navigation between pages
-- **SEO defaults done right** — canonical URLs, Open Graph, Twitter cards, auto-generated sitemap
-- **Strict TypeScript** — `astro/tsconfigs/strict`, path aliases (`@/components/*`, etc.)
-- **Prettier**, pre-configured for `.astro` files and Tailwind class sorting
-- One accent color and two font variables control the entire visual identity
+* Web UI automation
+* REST API testing
+* Database validation
+* End-to-end testing
+* Regression testing
+* Test framework development
+* Data validation
 
-No state management, no UI kit, no CMS integration —
-add those yourself if your project actually needs them.
+I enjoy building automation solutions that are **reusable, scalable, and easy to maintain**, while continuously improving my technical skills and QA practices.
 
-## Quick start
+Currently, I am focused on growing professionally as a **QA Automation Engineer** and taking on freelance QA projects.
 
-```bash
-git clone https://github.com/BracoZS/astro-starter-portfolio.git
-cd astro-starter-portfolio
-pnpm install
-pnpm dev
-```
+---
 
-> Any package manager works.
+## 🚀 Featured Projects
 
-Open `http://localhost:4321`.
+### 01 — Hybrid QA Automation Framework
 
-| Command        | Action                                             |
-| -------------- | -------------------------------------------------- |
-| `pnpm dev`     | Start the local dev server                         |
-| `pnpm build`   | Type-check, then build for production to `./dist/` |
-| `pnpm preview` | Preview the production build locally               |
-| `pnpm check`   | Run `astro check` only                             |
-| `pnpm format`  | Format the project with Prettier                   |
+**Web + API + Database**
 
-## Project structure
+A professional hybrid automation framework designed to validate application behavior across multiple layers.
+
+**Key capabilities:**
+
+* Web UI automation
+* REST API testing
+* MySQL database validation
+* End-to-end test scenarios
+* Cross-layer data consistency
+* Automated regression testing
+* Reusable test components
+* Pytest-based test execution
+
+**Technologies:**
+
+`Python` `Selenium` `Pytest` `REST API` `MySQL` `Git`
+
+---
+
+### 02 — Professional E-commerce Automation Framework
+
+A scalable Selenium automation framework focused on end-to-end e-commerce workflows.
+
+**Automated scenarios include:**
+
+* User login
+* Product selection
+* Product sorting
+* Shopping cart
+* Checkout
+* Purchase flow
+* Negative scenarios
+* Regression testing
+
+**Architecture:**
+
+* Page Object Model
+* Driver Factory
+* Base Page
+* Reusable page components
+* Test data management
+
+**Technologies:**
+
+`Python` `Selenium` `Pytest` `POM` `Git`
+
+---
+
+### 03 — API Data Validator & Testing Framework
+
+A QA project focused on REST API testing and database validation.
+
+**Key capabilities:**
+
+* HTTP status code validation
+* JSON response validation
+* API response verification
+* Database validation
+* API-to-database consistency checks
+* Automated tests with Pytest
+* Flask API for testing purposes
+
+**Technologies:**
+
+`Python` `Flask` `Pytest` `REST API` `MySQL` `Postman`
+
+---
+
+### 04 — Selenium Web Automation Framework
+
+A web automation project focused on creating reusable and maintainable automated tests.
+
+**Key capabilities:**
+
+* Selenium WebDriver
+* Page Object Model
+* Explicit waits
+* Reusable components
+* Automated regression scenarios
+* Screenshots on failure
+* Test reporting
+
+**Technologies:**
+
+`Python` `Selenium` `Pytest` `POM` `Git/GitHub`
+
+---
+
+### 05 — AI Applied to QA
+
+🚧 **In Progress**
+
+A QA project focused on applying AI techniques to software testing.
+
+Planned capabilities include:
+
+* AI-assisted test case generation
+* Prompt testing
+* Response validation
+* Hallucination detection
+* AI response evaluation
+* Automated quality assessment
+
+**Technologies:**
+
+`Python` `AI Testing` `Prompt Engineering` `Pytest`
+
+---
+
+## 🛠️ Technical Skills
+
+### Test Automation
+
+* Selenium WebDriver
+* Pytest
+* Page Object Model (POM)
+* Data-Driven Testing
+* Regression Testing
+* End-to-End Testing
+
+### API Testing
+
+* REST APIs
+* Postman
+* Requests
+* JSON validation
+* HTTP status codes
+* API automation
+
+### Programming
+
+* Python
+* SQL
+* Flask
+
+### Databases
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Jira
+* PyCharm
+
+### QA Practices
+
+* Functional Testing
+* API Testing
+* Database Testing
+* Test Case Design
+* Positive & Negative Testing
+* Defect Identification
+* Test Documentation
+
+---
+
+## 📊 QA Automation Focus
 
 ```text
-├── public/
-│   ├── favicon.svg
-│   ├── favicons/
-│   ├── og-image.png          # replace with your own 1200×630 image
-│   └── robots.txt
-├── src/
-│   ├── assets/               # static images and assets
-│   ├── components/           # BaseHead, Button, Footer, Header, SectionHeading, ThemeToggle, WorkRow
-│   ├── content/
-│   │   └── work/*.md         # one file per project
-│   ├── layouts/
-│   │   └── BaseLayout.astro  # <head>, SEO, fonts, theme script
-│   ├── pages/
-│   │   ├── index.astro
-│   │   ├── about.astro
-│   │   ├── work/[id].astro
-│   │   └── 404.astro
-│   ├── styles/
-│   │   └── global.css        # design tokens + Tailwind import
-│   ├── utils/
-│   │   └── formatDate.ts     # date formatting helpers
-│   ├── content.config.ts     # Zod schema for the "work" collection
-│   └── site.config.ts        # name, bio, email, social links
-├── astro.config.mjs
-└── tsconfig.json
+Web UI Testing       ████████████████████
+API Testing          ███████████████████
+Database Validation  ████████████████
+Python Automation    ████████████████████
+Test Frameworks      ███████████████████
 ```
 
-## Customizing
-
-**Your info.** Edit `src/site.config.ts` — name, tagline, email, and social links are
-read from this one file by the header, footer, and homepage.
-
-**Colors.** Edit the five custom properties at the top of `src/styles/global.css`
-(`--paper`, `--ink`, `--ink-soft`, `--signal`, `--line`). Every component reads from
-these tokens, so changing them re-skins the whole site.
-
-**Fonts.** Swap the three families in the `fonts` array in `astro.config.mjs`. Any
-family available from Google Fonts works — Astro self-hosts it automatically.
-
-**Projects.** Add a Markdown file to `src/content/work/`. Required frontmatter is
-enforced by the schema in `src/content.config.ts`:
-
-```md
----
-title: Project Name
-summary: One sentence, shown in the list view.
-role: Your role on the project
-date: 2026-01-15
-tags: [Astro, TypeScript]
-url: https://example.com # optional
-repo: https://github.com/... # optional
-featured: true # optional, shows it first on the homepage
 ---
 
-Full write-up in Markdown.
-```
+## 🎓 Education
 
-**Open Graph image.** Replace `public/og-image.png` with your own 1200×630 image.
+**Software Analysis and Development Technologist**
+SENA — 2024
 
-## Deploying
+**Complete QA Engineer Course: From Beginner to Advanced**
+Udemy — 2026
 
-This is a static site — it deploys anywhere that serves static files. See Astro's
-[deployment guides](https://docs.astro.build/en/guides/deploy/) for
-Vercel, Netlify, Cloudflare Pages, and others. Remember to update the `site` value
-in `astro.config.mjs` to your real domain before building — it's used for the
-sitemap and canonical URLs.
+---
 
-## License
+## 💼 Professional Experience
 
-MIT — see [LICENSE](./LICENSE). Free to use for personal or commercial projects,
-attribution appreciated but not required.
+### IT Intern — Functional QA & Power Platform
+
+**La Mera Agencia Audiovisual**
+June 2025 – December 2025
+
+* Designed and executed functional test cases.
+* Performed regression testing.
+* Identified and documented software defects.
+* Tested automated approval workflows.
+* Developed internal solutions using Power Apps.
+* Automated business processes using Power Automate.
+* Supported Microsoft 365 users and solutions.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced test automation architecture
+* CI/CD for QA Automation
+* AI Testing
+* Advanced API automation
+* Performance testing
+* Cloud-based testing environments
+
+---
+
+## 🎯 Career Goal
+
+My goal is to continue growing as a **QA Automation Engineer**, contributing to software quality through reliable automation, API testing, database validation, and modern QA practices.
+
+I am also available for **freelance QA Automation projects** involving web applications, APIs, regression testing, and test automation.
+
+---
+
+## 📫 Let's Connect
+
+**Email:** [isabelvides123@gmail.com](mailto:isabelvides123@gmail.com)
+
+**GitHub:**
+https://github.com/Marisa-GIT
+
+**LinkedIn:**
+Add your LinkedIn profile URL here.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my portfolio! 🚀
+
+**QA Automation · Python · Selenium · Pytest · API Testing · SQL**
+
+</div>
+
