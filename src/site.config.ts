@@ -4,9 +4,9 @@ export const SITE = {
   name: 'Isabel Vides',
   role: 'QA Automation Engineer Jr',
   email: 'Isabelvides123@gmail.com',
-  tagline: 'Building reliable software through test automation.',
+  tagline: 'I build reliable and maintainable test automation solutions for web applications.',
   description:
-    'Portfolio of Isabel Vides — portfolio focused on web automation, REST API testing, database validation, and end-to-end testing using Python, Selenium, Pytest, SQL, and Git.',
+    'Portfolio of Isabel Vides — portafolio focused on web automation, REST API testing, database validation, and end-to-end testing using Python, Selenium, Pytest, SQL, and Git.',
   status: 'Open to QA Automation opportunities and freelance projects',
   social: [
     { label: 'GitHub', href: 'https://github.com/Marisa-GIT' },
