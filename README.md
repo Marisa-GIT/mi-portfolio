@@ -8,7 +8,7 @@ I build reliable and maintainable test automation solutions focused on **Web UI,
 
 **Python · Selenium · Pytest · API Testing · MySQL · Git/GitHub**
 
-[Portfolio](https://astro-starter-portfolio.vercel.app) · [GitHub](https://github.com/Marisa-GIT) · [LinkedIn](https://www.linkedin.com/)
+[Portfolio](https://astro-starter-portfolio.vercel.app) · [GitHub](https://github.com/Marisa-GIT) · [LinkedIn](https://www.linkedin.com/in/maria-isabel-vides-021531232)
 
 </div>
 
@@ -264,7 +264,7 @@ I am also available for **freelance QA Automation projects** involving web appli
 https://github.com/Marisa-GIT
 
 **LinkedIn:**
-Add your LinkedIn profile URL here.
+www.linkedin.com/in/maria-isabel-vides-021531232
 
 ---
 
