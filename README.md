@@ -8,7 +8,7 @@ I build reliable and maintainable test automation solutions focused on **Web UI,
 
 **Python · Selenium · Pytest · API Testing · MySQL · Git/GitHub**
 
-[Portfolio](https://astro-starter-portfolio.vercel.app) · [GitHub](https://github.com/Marisa-GIT) · [LinkedIn](https://www.linkedin.com/in/maria-isabel-vides-021531232)
+[Portfolio](https://astro-mi-portfolio.vercel.app) · [GitHub](https://github.com/Marisa-GIT) · [LinkedIn](https://www.linkedin.com/in/maria-isabel-vides-021531232)
 
 </div>
 
