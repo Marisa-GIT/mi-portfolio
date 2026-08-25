@@ -1,9 +1,8 @@
 <div align="center">
 
-# Portfolio Starter
+# 👋 Hi, I'm Isabel Vides
 
-A minimal, professional portfolio template for **Astro**. Built for people who want
-something that looks intentional on day one, without a component library you didn't ask for.
+Aspiring **QA Automation Engineer** passionate about building reliable, scalable, and maintainable test automation solutions. My interests include **API testing, web automation, backend testing, data validation, and software quality assurance**.
 
 [**Live Demo**](https://astro-starter-portfolio.vercel.app) · [Report an issue](https://github.com/BracoZS/astro-starter-portfolio/issues)
 
