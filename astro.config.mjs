@@ -5,10 +5,11 @@ import tailwindcss from '@tailwindcss/vite';
 
 // Replace with your production URL after deploying to Vercel / Netlify.
 // It powers the sitemap and the canonical / Open Graph URLs in BaseLayout.
-const SITE_URL = 'https://marisa.com';
+const SITE_URL = 'https://github.io';
 
 export default defineConfig({
   site: SITE_URL,
+  base: '/mi-portfolio',
 
   integrations: [sitemap()],
 
